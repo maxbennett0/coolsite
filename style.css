@@ -1,0 +1,51 @@
+header{
+  background-color: navy;
+  border: 5px;
+  border-style: solid;
+}
+.top-text{
+  color: white;
+  text-align: center;
+}
+.teal{
+  display: flex;
+  background-color: aqua;
+  height: 2em;
+  width: 50%;
+}
+.tealflex{
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}
+.pa-text{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25%;
+}
+h2{
+  text-align: center;
+}
+footer{
+background-color: navy;
+height: 10em;
+border: 5px;
+border-style: solid;
+}
+.p-content{
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  margin-right: 10em;
+}
+.article{
+  background-color: blue;
+  height: 8em;
+  width: 10em;
+  margin-bottom: 9em;
+}
+.pic{
+  height: 8em;
+  width: 10em;
+}
